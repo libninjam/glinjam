@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svnroot/gninjam/!svn/ver/120/trunk
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/gninjam/!svn/ver/6/trunk/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/gninjam/!svn/ver/6/trunk/TODO
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/gninjam/!svn/ver/46/trunk/configure.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/gninjam/!svn/ver/6/trunk/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/gninjam/!svn/ver/104/trunk/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/gninjam/!svn/ver/6/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/gninjam/!svn/ver/34/trunk/Makefile.am
+END
+update-potfile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gninjam/!svn/ver/86/trunk/update-potfile.sh
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/gninjam/!svn/ver/34/trunk/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svnroot/gninjam/!svn/ver/6/trunk/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/gninjam/!svn/ver/6/trunk/README
+END
+gninjam.glade
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/gninjam/!svn/ver/104/trunk/gninjam.glade
+END
+gninjam.gladep
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/gninjam/!svn/ver/34/trunk/gninjam.gladep
+END

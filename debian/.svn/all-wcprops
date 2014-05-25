@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/gninjam/!svn/ver/120/trunk/debian
+END
+menu.ex
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/gninjam/!svn/ver/11/trunk/debian/menu.ex
+END
+gninjam-default.ex
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gninjam/!svn/ver/11/trunk/debian/gninjam-default.ex
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/gninjam/!svn/ver/46/trunk/debian/control
+END
+emacsen-remove.ex
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gninjam/!svn/ver/11/trunk/debian/emacsen-remove.ex
+END
+watch.ex
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/gninjam/!svn/ver/11/trunk/debian/watch.ex
+END
+manpage.1.ex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/gninjam/!svn/ver/11/trunk/debian/manpage.1.ex
+END
+manpage.xml.ex
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gninjam/!svn/ver/11/trunk/debian/manpage.xml.ex
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/gninjam/!svn/ver/11/trunk/debian/compat
+END
+manpage.sgml.ex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gninjam/!svn/ver/11/trunk/debian/manpage.sgml.ex
+END
+emacsen-startup.ex
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gninjam/!svn/ver/11/trunk/debian/emacsen-startup.ex
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gninjam/!svn/ver/120/trunk/debian/changelog
+END
+docs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/gninjam/!svn/ver/11/trunk/debian/docs
+END
+emacsen-install.ex
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gninjam/!svn/ver/11/trunk/debian/emacsen-install.ex
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/gninjam/!svn/ver/11/trunk/debian/rules
+END
+cron.d.ex
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gninjam/!svn/ver/11/trunk/debian/cron.d.ex
+END
+postinst.ex
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gninjam/!svn/ver/11/trunk/debian/postinst.ex
+END
+postrm.ex
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gninjam/!svn/ver/11/trunk/debian/postrm.ex
+END
+preinst.ex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gninjam/!svn/ver/11/trunk/debian/preinst.ex
+END
+init.d.ex
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gninjam/!svn/ver/11/trunk/debian/init.d.ex
+END
+prerm.ex
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/gninjam/!svn/ver/11/trunk/debian/prerm.ex
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/gninjam/!svn/ver/11/trunk/debian/dirs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gninjam/!svn/ver/11/trunk/debian/copyright
+END
+gninjam.doc-base.EX
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gninjam/!svn/ver/11/trunk/debian/gninjam.doc-base.EX
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gninjam/!svn/ver/11/trunk/debian/README.Debian
+END

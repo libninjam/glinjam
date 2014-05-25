@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/gninjam/!svn/ver/118/trunk/src
+END
+vbox_remote_channel.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gninjam/!svn/ver/29/trunk/src/vbox_remote_channel.hh
+END
+dialog_license_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gninjam/!svn/ver/34/trunk/src/dialog_license_glade.cc
+END
+vbox_local_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gninjam/!svn/ver/7/trunk/src/vbox_local_glade.hh
+END
+vbox_remote_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/gninjam/!svn/ver/7/trunk/src/vbox_remote_glade.hh
+END
+dialog_license.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gninjam/!svn/ver/118/trunk/src/dialog_license.cc
+END
+vbox_local.hh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gninjam/!svn/ver/24/trunk/src/vbox_local.hh
+END
+common.hh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/gninjam/!svn/ver/9/trunk/src/common.hh
+END
+vbox_remote.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gninjam/!svn/ver/29/trunk/src/vbox_remote.hh
+END
+dialog_connect_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gninjam/!svn/ver/77/trunk/src/dialog_connect_glade.cc
+END
+fixEmptyStrings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gninjam/!svn/ver/66/trunk/src/fixEmptyStrings.sh
+END
+dialog_connect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gninjam/!svn/ver/68/trunk/src/dialog_connect.cc
+END
+RemoteUserFrame_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gninjam/!svn/ver/40/trunk/src/RemoteUserFrame_glade.hh
+END
+vbox_local_channel_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gninjam/!svn/ver/63/trunk/src/vbox_local_channel_glade.cc
+END
+vbox_remote_channel_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gninjam/!svn/ver/62/trunk/src/vbox_remote_channel_glade.cc
+END
+RemoteUserFrame.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gninjam/!svn/ver/40/trunk/src/RemoteUserFrame.hh
+END
+vbox_local_channel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gninjam/!svn/ver/87/trunk/src/vbox_local_channel.cc
+END
+vbox_remote_channel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gninjam/!svn/ver/103/trunk/src/vbox_remote_channel.cc
+END
+gninjam.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/gninjam/!svn/ver/104/trunk/src/gninjam.cc
+END
+vbox_local_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/gninjam/!svn/ver/34/trunk/src/vbox_local_glade.cc
+END
+vbox_remote_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/gninjam/!svn/ver/34/trunk/src/vbox_remote_glade.cc
+END
+vbox_local.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/gninjam/!svn/ver/41/trunk/src/vbox_local.cc
+END
+gNinjamClient_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gninjam/!svn/ver/50/trunk/src/gNinjamClient_glade.hh
+END
+common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/gninjam/!svn/ver/34/trunk/src/common.cc
+END
+vbox_remote.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/gninjam/!svn/ver/41/trunk/src/vbox_remote.cc
+END
+gNinjamClient.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gninjam/!svn/ver/78/trunk/src/gNinjamClient.hh
+END
+window_preferences_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gninjam/!svn/ver/104/trunk/src/window_preferences_glade.hh
+END
+RemoteUserFrame_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/gninjam/!svn/ver/67/trunk/src/RemoteUserFrame_glade.cc
+END
+window_preferences.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gninjam/!svn/ver/104/trunk/src/window_preferences.hh
+END
+RemoteUserFrame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/gninjam/!svn/ver/41/trunk/src/RemoteUserFrame.cc
+END
+dialog_license_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gninjam/!svn/ver/6/trunk/src/dialog_license_glade.hh
+END
+dialog_license.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/gninjam/!svn/ver/9/trunk/src/dialog_license.hh
+END
+gNinjamClient_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gninjam/!svn/ver/62/trunk/src/gNinjamClient_glade.cc
+END
+dialog_connect_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/gninjam/!svn/ver/68/trunk/src/dialog_connect_glade.hh
+END
+gNinjamClient.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gninjam/!svn/ver/118/trunk/src/gNinjamClient.cc
+END
+dialog_connect.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/gninjam/!svn/ver/68/trunk/src/dialog_connect.hh
+END
+window_preferences_glade.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gninjam/!svn/ver/104/trunk/src/window_preferences_glade.cc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/gninjam/!svn/ver/102/trunk/src/Makefile.am
+END
+vbox_local_channel_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/gninjam/!svn/ver/63/trunk/src/vbox_local_channel_glade.hh
+END
+vbox_remote_channel_glade.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/gninjam/!svn/ver/29/trunk/src/vbox_remote_channel_glade.hh
+END
+window_preferences.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/gninjam/!svn/ver/104/trunk/src/window_preferences.cc
+END
+vbox_local_channel.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/gninjam/!svn/ver/63/trunk/src/vbox_local_channel.hh
+END
