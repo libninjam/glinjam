@@ -1,3 +1,6 @@
+2014-05-25
+  initialise git repository preserving svn history
+
 2006-11-23  gettextize  <bug-gnu-gettext@gnu.org>
 
 	* Makefile.am (EXTRA_DIST): Add m4/ChangeLog.
